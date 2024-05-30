@@ -1,0 +1,6 @@
+include ':lib_refresh'
+include ':lib_base'
+include ':ocr_ui'
+include ':app'
+rootProject.name = "MPrint"
+//include ':takephoto_library'
